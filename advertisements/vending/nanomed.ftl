@@ -1,0 +1,9 @@
+﻿advertisement-nanomed-1 = Спасайте жизни!
+advertisement-nanomed-2 = Лучшие препараты для вашей медпункта.
+advertisement-nanomed-3 = Только самые качественные инструменты.
+advertisement-nanomed-4 = Натуральные химикаты!
+advertisement-nanomed-5 = Эти препараты спасают жизни.
+advertisement-nanomed-6 = Разве вы не хотите этого?
+advertisement-nanomed-7 = Пинг!
+advertisement-nanomed-8 = Убедитесь, что не передозируете людей!
+advertisement-nanomed-9 = Давайте передознём людей!

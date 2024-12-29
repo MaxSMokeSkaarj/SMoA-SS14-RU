@@ -1,0 +1,22 @@
+permissions-eui-do-not-have-required-flags-to-edit-admin-tooltip = У вас нет необходимых прав для редактирования этого администратора.
+permissions-eui-do-not-have-required-flags-to-edit-rank-tooltip = У вас нет необходимых прав для редактирования этого ранга.
+
+permissions-eui-menu-title = Панель Управления Правами
+permissions-eui-menu-add-admin-button = Добавить Администратора
+permissions-eui-menu-add-admin-rank-button = Добавить Ранг Администратора
+permissions-eui-menu-save-admin-rank-button = Сохранить
+permissions-eui-menu-remove-admin-rank-button = Удалить
+permissions-eui-menu-admins-tab-title = Администраторы
+permissions-eui-menu-admin-ranks-tab-title = Ранги Администраторов
+permissions-eui-edit-admin-window-edit-admin-label = Редактировать администратора {$admin}
+permissions-eui-edit-admin-window-name-edit-placeholder = Имя пользователя/ID пользователя
+permissions-eui-edit-admin-window-title-edit-placeholder = Пользовательский заголовок, оставьте пустым, чтобы унаследовать заголовок ранга.
+permissions-eui-edit-admin-window-no-rank-button = Без ранга
+permissions-eui-edit-admin-rank-window-name-edit-placeholder = Название ранга
+permissions-eui-edit-admin-title-control-text = нет
+permissions-eui-edit-no-rank-text = нет
+permissions-eui-edit-title-button = Редактировать
+permissions-eui-edit-admin-rank-button = Редактировать
+permissions-eui-edit-admin-rank-window-title = Редактировать Ранг Администратора
+permissions-eui-edit-admin-window-save-button = Сохранить
+permissions-eui-edit-admin-window-remove-flag-button = Удалить
